@@ -5,12 +5,12 @@ author: chokyungjin<chokj1472@gmail.com>, moonyoungCHAE<Xpf_fl@naver.com>, Flutt
 homepage: https://github.com/flutter-moum/flutter_airplane_mode_detection_
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  fluttertoast: ^7.0.4
+  fluttertoast: ^8.0.7
 
 dev_dependencies:
   flutter_test:

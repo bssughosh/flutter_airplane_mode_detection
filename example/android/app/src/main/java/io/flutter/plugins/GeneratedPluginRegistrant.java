@@ -2,7 +2,7 @@ package io.flutter.plugins;
 
 import io.flutter.plugin.common.PluginRegistry;
 import flutter.moum.airplane_mode_detection.AirplaneModeDetectionPlugin;
-import io.github.ponnamkarthik.toast.fluttertoast.FluttertoastPlugin;
+import io.github.ponnamkarthik.toast.fluttertoast.FlutterToastPlugin;
 
 /**
  * Generated file. Do not edit.
@@ -13,7 +13,7 @@ public final class GeneratedPluginRegistrant {
       return;
     }
     AirplaneModeDetectionPlugin.registerWith(registry.registrarFor("flutter.moum.airplane_mode_detection.AirplaneModeDetectionPlugin"));
-    FluttertoastPlugin.registerWith(registry.registrarFor("io.github.ponnamkarthik.toast.fluttertoast.FluttertoastPlugin"));
+    FlutterToastPlugin.registerWith(registry.registrarFor("io.github.ponnamkarthik.toast.fluttertoast.FlutterToastPlugin"));
   }
 
   private static boolean alreadyRegisteredWith(PluginRegistry registry) {
